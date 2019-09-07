@@ -1,0 +1,96 @@
+nav{
+    background-color: rgba(172, 6, 39, 0.555);
+    padding: 20px 40px 20px 30px;
+}
+.logo{
+margin: 12px 230px 0px 0px;
+background-color: rgba(172, 6, 39, 0.555);
+margin-right: 70%;
+
+}
+.encabezado{
+   
+    color: rgb(0, 102, 255);
+    font-style: italic;
+    list-style-type: none;
+    display: inline;
+    
+}
+.titulo{
+color: cadetblue;
+}
+#cita{
+color: cornflowerblue;
+}
+#commerce{
+    margin-left: 5%; 
+}
+div{
+    color: rgb(158, 66, 243);
+}
+h1 {
+    text-align: center;
+    font-size: 3em;
+}
+blockquote {
+    margin-left: 31%;
+    font-size: 1.5em;
+}
+#div0{
+    font-size: 25px;
+    margin-left: 20px;
+}
+#images{
+    margin: 5%;
+}
+.footer{
+    background-color:  rgba(172, 6, 39, 0.555);
+    padding: 20px;
+}
+#ciudad{
+    color: black;
+    font-size: 15px;
+    text-align: center;
+
+}
+#copyright{
+    color: black;
+    font-size: 15px;
+    text-align: center;
+    
+}
+.venta{
+display: inline;
+border: double crimson;
+align-content: center;    
+}
+.articulo{
+text-align: center;
+font-size: 35px;
+
+}
+.televisor{
+    margin: auto;
+    display: inline;
+}
+.computers{
+display: inline;
+
+
+}
+.laptops{
+display: inline;
+    
+}
+.text{
+    font-size: 20px;
+    color: coral;
+    text-align: center;
+}
+form {
+    font-size: 30px;
+    color: aqua;
+    padding: 10px;
+    text-align: left;
+    font-style: initial;
+}
